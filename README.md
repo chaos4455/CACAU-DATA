@@ -89,10 +89,10 @@ Este projeto utiliza as seguintes tecnologias e bibliotecas:
 ![scatter_matrix_metricas_vendas](https://github.com/user-attachments/assets/384cba7d-5189-4633-b5b1-1f763fe95d0d)
 ![treemap_receita_cidade_crescimento](https://github.com/user-attachments/assets/0a1f83a4-f994-4922-a16d-70e9a96c128c)
 ![heatmap_correlacao_metricas](https://github.com/user-attachments/assets/7d47d810-0cad-41e3-b6b3-9ad14fab079e)
-![waterfall_crescimento_receita](https://github.com/user-attachments/assets/d4e0061a-4730-4a8d-b6cc-66fff0cb3a68)
-![bullet_meta_receita_anual](https://github.com/user-attachments/assets/38705365-cd9b-4412-a27a-05209328e157)
-![gantt_cronograma_vendas](https://github.com/user-attachments/assets/ee710836-3a9d-467a-b820-6af0108fb4a0)
-![dumbbell_comparacao_vendas](https://github.com/user-attachments/assets/9e56dc38-82ee-4f95-95a6-588ccdfb9f56)
+
+
+
+
 
 ---
 
@@ -106,7 +106,7 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 🔹 Comparação de Vendas Dumbbell
 
-![Comparação de Vendas Dumbbell](./images/dumbbell_comparacao_vendas.png)
+![dumbbell_comparacao_vendas](https://github.com/user-attachments/assets/9e56dc38-82ee-4f95-95a6-588ccdfb9f56)
 
 > **Descrição**: Este gráfico dumbbell compara as vendas de diferentes franquias ao longo de dois períodos distintos.
 >
@@ -114,7 +114,7 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 📅 Cronograma de Vendas Gantt
 
-![Cronograma de Vendas Gantt](./images/gantt_cronograma_vendas.png)
+![gantt_cronograma_vendas](https://github.com/user-attachments/assets/ee710836-3a9d-467a-b820-6af0108fb4a0)
 
 > **Descrição**: O gráfico de Gantt apresenta o cronograma de vendas projetadas versus realizadas.
 >
@@ -122,7 +122,7 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 🎯 Meta de Receita Anual Bullet
 
-![Meta de Receita Anual Bullet](./images/bullet_meta_receita_anual.png)
+![bullet_meta_receita_anual](https://github.com/user-attachments/assets/38705365-cd9b-4412-a27a-05209328e157)
 
 > **Descrição**: Este gráfico bullet mostra o progresso em relação à meta de receita anual.
 >
@@ -130,7 +130,7 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 📉 Crescimento de Receita Waterfall
 
-![Crescimento de Receita Waterfall](./images/waterfall_crescimento_receita.png)
+![waterfall_crescimento_receita](https://github.com/user-attachments/assets/d4e0061a-4730-4a8d-b6cc-66fff0cb3a68)
 
 > **Descrição**: O gráfico waterfall detalha as contribuições positivas e negativas para o crescimento da receita.
 >
@@ -138,7 +138,7 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 🔥 Correlação de Métricas Heatmap
 
-![Correlação de Métricas Heatmap](./images/heatmap_correlacao_metricas.png)
+
 
 > **Descrição**: Heatmap de correlação entre diferentes métricas de vendas.
 >
@@ -146,7 +146,7 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 🗺️ Receita por Cidade Treemap
 
-![Receita por Cidade Treemap](./images/treemap_receita_cidade_crescimento.png)
+
 
 > **Descrição**: Treemap que representa a receita gerada por cada cidade, destacando o crescimento relativo.
 >
@@ -154,7 +154,7 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 🔍 Matriz de Dispersão de Métricas
 
-![Matriz de Dispersão de Métricas](./images/scatter_matrix_metricas_vendas.png)
+
 
 > **Descrição**: Matriz de dispersão que explora a relação entre diferentes métricas de vendas.
 >
@@ -162,7 +162,7 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### ⚖️ Pareto de Receita por Cidade
 
-![Pareto de Receita por Cidade](./images/pareto_receita_por_cidade.png)
+
 
 > **Descrição**: Gráfico de Pareto que destaca as cidades que mais contribuem para a receita total.
 >
@@ -170,7 +170,6 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 📈 Receita Acumulada por Cidade
 
-![Receita Acumulada por Cidade](./images/area_receita_total_acumulada_cidade.png)
 
 > **Descrição**: Gráfico de área que mostra a receita total acumulada por cidade ao longo do tempo.
 >
@@ -178,7 +177,6 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 🍕 Percentual de Clientes por Cidade
 
-![Percentual de Clientes por Cidade](./images/pizza_percentual_clientes_cidade.png)
 
 > **Descrição**: Gráfico de pizza que ilustra a distribuição percentual de clientes por cidade.
 >
@@ -186,7 +184,6 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 🌍 Densidade de População vs Receita
 
-![Densidade de População vs Receita](./images/densidade_distribuicao_populacao_receita.png)
 
 > **Descrição**: Gráfico de densidade que correlaciona a população de uma cidade com a receita gerada.
 >
@@ -194,7 +191,6 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 📊 Vendas per Capita por Cidade
 
-![Vendas per Capita por Cidade](./images/linhas_vendas_per_capita_cidade.png)
 
 > **Descrição**: Gráfico de linhas que mostra as vendas per capita em cada cidade.
 >
@@ -202,7 +198,6 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 🔺 Ticket Médio por Cidade
 
-![Ticket Médio por Cidade](./images/barras_ticket_medio_cidade.png)
 
 > **Descrição**: Gráfico de barras que compara o ticket médio das vendas por cidade.
 >
@@ -210,7 +205,6 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 📉 KDE do IDH vs Receita Total
 
-![KDE do IDH vs Receita Total](./images/kde_idh_receita_total.png)
 
 > **Descrição**: Gráfico KDE (Kernel Density Estimate) que correlaciona o IDH das cidades com a receita total.
 >
@@ -218,7 +212,6 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 📦 Receita por Funcionário Boxplot
 
-![Receita por Funcionário Boxplot](./images/boxplot_receita_por_funcionario_cidade.png)
 
 > **Descrição**: Boxplot que mostra a distribuição da receita por funcionário em cada cidade.
 >
@@ -226,7 +219,6 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 📈 Crescimento de Vendas por Cidade
 
-![Crescimento de Vendas por Cidade](./images/linhas_crescimento_vendas_cidade.png)
 
 > **Descrição**: Gráfico de linhas que acompanha o crescimento das vendas em diferentes cidades.
 >
@@ -234,7 +226,6 @@ Nesta seção, apresentamos uma série de gráficos que ilustram diferentes aspe
 
 ### 📉 Dispersão de Receita por Cliente
 
-![Dispersão de Receita por Cliente](./images/dispersao_receita_clientes.png)
 
 > **Descrição**: Gráfico de dispersão que correlaciona a receita gerada por cliente.
 >
