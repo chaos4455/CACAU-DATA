@@ -7,8 +7,6 @@
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6347?style=flat&logo=data&logoColor=white)](https://en.wikipedia.org/wiki/Data_analysis)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-32CD32?style=flat&logo=machinelearning&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
 [![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/seuusuario/seurepositorio?style=social)](https://github.com/seuusuario/seurepositorio/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/seuusuario/seurepositorio?style=social)](https://github.com/seuusuario/seurepositorio/network/members)
 
 ---
 
